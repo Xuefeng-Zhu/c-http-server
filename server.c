@@ -1,4 +1,7 @@
-/** @file server.c */
+/**
+ * @file server.c
+ * Author: Xuefeng Zhu 
+*/
 
 #define _GNU_SOURCE
 #include <stdio.h>
